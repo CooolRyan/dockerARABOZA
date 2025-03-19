@@ -11,7 +11,7 @@
 
 |<img src="https://github.com/CooolRyan.png" width="220" />|<img src="https://github.com/imhaeunim.png" width="220" />|
 |:-:|:-:|
-|나원호<br/>[@CooolRyanJ](https://github.com/CooolRyan)|임하은<br/>[@imhaeunim](https://github.com/imhaeunim)|
+|나원호<br/>[@CooolRyan](https://github.com/CooolRyan)|임하은<br/>[@imhaeunim](https://github.com/imhaeunim)|
 
 
 
