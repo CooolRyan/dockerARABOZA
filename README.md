@@ -209,6 +209,8 @@ docker run -d -p 8000:8000 --name myjar <docker-hub-사용자이름>/myjar:1.0
 
 - **용량이 크고**, 더 많은 라이브러리 포함
 - 기본적으로 더 **완전한 JRE 환경** 제공
+
+
     ![image](https://github.com/user-attachments/assets/2be6eb40-9c3f-4bbb-a88f-e1f63a79d243)
 
 
@@ -216,6 +218,8 @@ docker run -d -p 8000:8000 --name myjar <docker-hub-사용자이름>/myjar:1.0
 
 - **용량이 더 작고**, 불필요한 요소 제거
 - **더 빠른 실행**과 **최적화된 성능** 제공
+
+
     ![image](https://github.com/user-attachments/assets/3d6dd60f-105b-4d44-9024-d3f38c3685f3)
 
 
